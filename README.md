@@ -36,4 +36,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/seu-usuário-aqui/Thiagosilvajesus/blob/output/github-contribution-grid-snake.svg)
+
